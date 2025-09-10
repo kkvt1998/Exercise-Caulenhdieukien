@@ -1,0 +1,15 @@
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Bodymassindex\bin\Debug\net9.0\Bodymassindex.exe
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Bodymassindex\bin\Debug\net9.0\Bodymassindex.deps.json
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Bodymassindex\bin\Debug\net9.0\Bodymassindex.runtimeconfig.json
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Bodymassindex\bin\Debug\net9.0\Bodymassindex.dll
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Bodymassindex\bin\Debug\net9.0\Bodymassindex.pdb
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Bodymassindex\obj\Debug\net9.0\Bodymassindex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Bodymassindex\obj\Debug\net9.0\Bodymassindex.AssemblyInfoInputs.cache
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Bodymassindex\obj\Debug\net9.0\Bodymassindex.AssemblyInfo.cs
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Bodymassindex\obj\Debug\net9.0\Bodymassindex.csproj.CoreCompileInputs.cache
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Bodymassindex\obj\Debug\net9.0\Bodymassindex.sourcelink.json
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Bodymassindex\obj\Debug\net9.0\Bodymassindex.dll
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Bodymassindex\obj\Debug\net9.0\refint\Bodymassindex.dll
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Bodymassindex\obj\Debug\net9.0\Bodymassindex.pdb
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Bodymassindex\obj\Debug\net9.0\Bodymassindex.genruntimeconfig.cache
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Bodymassindex\obj\Debug\net9.0\ref\Bodymassindex.dll
