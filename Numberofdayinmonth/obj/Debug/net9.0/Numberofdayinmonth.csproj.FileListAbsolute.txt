@@ -1,0 +1,15 @@
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Numberofdayinmonth\bin\Debug\net9.0\Numberofdayinmonth.exe
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Numberofdayinmonth\bin\Debug\net9.0\Numberofdayinmonth.deps.json
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Numberofdayinmonth\bin\Debug\net9.0\Numberofdayinmonth.runtimeconfig.json
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Numberofdayinmonth\bin\Debug\net9.0\Numberofdayinmonth.dll
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Numberofdayinmonth\bin\Debug\net9.0\Numberofdayinmonth.pdb
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Numberofdayinmonth\obj\Debug\net9.0\Numberofdayinmonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Numberofdayinmonth\obj\Debug\net9.0\Numberofdayinmonth.AssemblyInfoInputs.cache
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Numberofdayinmonth\obj\Debug\net9.0\Numberofdayinmonth.AssemblyInfo.cs
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Numberofdayinmonth\obj\Debug\net9.0\Numberofdayinmonth.csproj.CoreCompileInputs.cache
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Numberofdayinmonth\obj\Debug\net9.0\Numberofdayinmonth.sourcelink.json
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Numberofdayinmonth\obj\Debug\net9.0\Numberofdayinmonth.dll
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Numberofdayinmonth\obj\Debug\net9.0\refint\Numberofdayinmonth.dll
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Numberofdayinmonth\obj\Debug\net9.0\Numberofdayinmonth.pdb
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Numberofdayinmonth\obj\Debug\net9.0\Numberofdayinmonth.genruntimeconfig.cache
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\Numberofdayinmonth\obj\Debug\net9.0\ref\Numberofdayinmonth.dll
