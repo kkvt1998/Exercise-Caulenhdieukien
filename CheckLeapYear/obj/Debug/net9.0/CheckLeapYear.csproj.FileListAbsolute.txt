@@ -1,0 +1,15 @@
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\CheckLeapYear\obj\Debug\net9.0\CheckLeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\CheckLeapYear\obj\Debug\net9.0\CheckLeapYear.AssemblyInfoInputs.cache
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\CheckLeapYear\obj\Debug\net9.0\CheckLeapYear.AssemblyInfo.cs
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\CheckLeapYear\obj\Debug\net9.0\CheckLeapYear.csproj.CoreCompileInputs.cache
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\CheckLeapYear\obj\Debug\net9.0\CheckLeapYear.sourcelink.json
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\CheckLeapYear\bin\Debug\net9.0\CheckLeapYear.exe
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\CheckLeapYear\bin\Debug\net9.0\CheckLeapYear.deps.json
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\CheckLeapYear\bin\Debug\net9.0\CheckLeapYear.runtimeconfig.json
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\CheckLeapYear\bin\Debug\net9.0\CheckLeapYear.dll
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\CheckLeapYear\bin\Debug\net9.0\CheckLeapYear.pdb
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\CheckLeapYear\obj\Debug\net9.0\CheckLeapYear.dll
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\CheckLeapYear\obj\Debug\net9.0\refint\CheckLeapYear.dll
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\CheckLeapYear\obj\Debug\net9.0\CheckLeapYear.pdb
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\CheckLeapYear\obj\Debug\net9.0\CheckLeapYear.genruntimeconfig.cache
+C:\Users\quakh\project-CodeGym\Exercise\Exercise-Caulenhdieukien\CheckLeapYear\obj\Debug\net9.0\ref\CheckLeapYear.dll
