@@ -22,11 +22,11 @@ namespace Bodymassindex
             {
                 Console.WriteLine("You are Underweight.");
             }
-            else if ( 18.5 <= bmi && bmi < 25.0)
+            else if ( bmi < 25.0)
             {
                Console.WriteLine("You are Normal. ");
             }
-            else if (25.0 <= bmi && bmi < 30.0)
+            else if (bmi < 30.0)
             {
                 Console.WriteLine("You are Overweight. ");
             }
